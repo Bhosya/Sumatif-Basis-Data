@@ -1,6 +1,6 @@
 <h1 align="center">Penilaian Akhir Semester Basis Data</h1>
 
-![banner](https://github.com/Bhosya/Sumatif-Basis-Data/assets/89555084/0ee3e385-6583-4e66-9227-51f6e0733bfe)
+<img width="947" alt="banner" src="https://github.com/Bhosya/Sumatif-Basis-Data/assets/89555084/63415660-a052-4b06-bd0a-0e94316a97c8">
 
 ## Deskripsi
 - Tes Sumatif Akhir Semester Basis Data
