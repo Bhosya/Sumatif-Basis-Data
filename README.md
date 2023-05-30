@@ -4,7 +4,8 @@
 
 ## Deskripsi
 - Tes Sumatif Akhir Semester Basis Data
-- Penjualan alat tulis kantor
+- Tugas : Membuat database dengan relasi lalu ditampilkan ke browser
+- Tema : Penjualan alat tulis kantor
 
 ## Nama Anggota Kelompok 8 :
 - Adam Raga (01)
